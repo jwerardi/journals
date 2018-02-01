@@ -1,0 +1,237 @@
+ACM Transactions on Graphics (TOG)
+
+Most recent:
+
+@Article{Bala:2018:3151031,
+ editor = {Bala, Kavita},
+ journal = {ACM Trans. Graph.},
+ year = {2018},
+ issn = {0730-0301},
+ volume = {37},
+ number = {1},
+ issue_date = {January 2018},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+} 
+
+Closest to my birthday:
+
+@Article{2017:3072959,
+ journal = {ACM Trans. Graph.},
+ year = {2017},
+ issn = {0730-0301},
+ volume = {36},
+ number = {4},
+ issue_date = {July 2017},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+key = {{$\!\!$}} ,
+}
+
+IEEE Transactions on Visualization and Computer Graphics
+
+Most recent:
+
+@ARTICLE{7867820,
+author={J. Barreira and M. Bessa and L. Barbosa and L. Magalhães},
+journal={IEEE Transactions on Visualization and Computer Graphics},
+title={A Context-Aware Method for Authentically Simulating Outdoors Shadows for Mobile Augmented Reality},
+year={2018},
+volume={24},
+number={3},
+pages={1223-1231},
+keywords={Cameras;Clouds;Estimation;Lighting;Meteorology;Probes;Sun;Augmented reality;context-awareness;photometric registration;shadows coherence},
+doi={10.1109/TVCG.2017.2676777},
+ISSN={1077-2626},
+month={March},}
+
+Closest to birthday:
+
+@ARTICLE{7547900,
+author={E. D. Ragan and S. Scerbo and F. Bacim and D. A. Bowman},
+journal={IEEE Transactions on Visualization and Computer Graphics},
+title={Amplified Head Rotation in Virtual Reality and the Effects on 3D Search, Training Transfer, and Spatial Orientation},
+year={2017},
+volume={23},
+number={8},
+pages={1880-1895},
+keywords={helmet mounted displays;virtual reality;3D environment;3D search;VR search task;VR systems;amplified head rotation;cybersickness;head movements;head-mounted display;physical rotations;seminatural physical view control;spatial orientation;surround-screen CAVE;training transfer;virtual reality;virtual turns;Games;Legged locomotion;Navigation;Three-dimensional displays;Training;Virtual reality;Visualization;3D interaction;Virtual reality;cybersickness;rotation amplification;search;spatial orientation},
+doi={10.1109/TVCG.2016.2601607},
+ISSN={1077-2626},
+month={Aug},}
+
+
+
+IEEE Computer Graphics and Applications
+
+Most recent:
+
+@ARTICLE{8103318,
+author={G. Singh},
+journal={IEEE Computer Graphics and Applications},
+title={Control and Release in Complex Relationships},
+year={2017},
+volume={37},
+number={6},
+pages={3-4},
+keywords={Art;Encoding;Fractals;Image color analysis;Programming;Visualization;abstract art;art-science collaboration;computer graphics},
+doi={10.1109/MCG.2017.4031065},
+ISSN={0272-1716},
+month={November},}
+
+
+Closest to my birthday:
+
+@ARTICLE{8013510,
+author={E. Bevacqua and R. Richard and P. De Loor},
+journal={IEEE Computer Graphics and Applications},
+title={Believability and Co-presence in Human-Virtual Character Interaction},
+year={2017},
+volume={37},
+number={4},
+pages={17-29},
+keywords={computer graphics;human computer interaction;multi-agent systems;virtual reality;adaptive body behavior;adaptive physical interactions;agent believability;body dynamics;decision model;game experience;human agent;human interaction;human virtual character interaction;virtual agent;Adaptation models;Animation;Facial animation;Mathematical model;Psychology;Technological innovation;Virtual reality;computer graphics;coupling;decision model;human-agent body interaction},
+doi={10.1109/MCG.2017.3271470},
+ISSN={0272-1716},
+month={},}
+
+
+
+
+ACM SIGGRAPH Computer Graphics 
+
+Most recent:
+
+@Article{Bala:2018:3151031,
+ editor = {Bala, Kavita},
+ journal = {ACM Trans. Graph.},
+ year = {2018},
+ issn = {0730-0301},
+ volume = {37},
+ number = {1},
+ issue_date = {January 2018},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+} 
+
+
+Closest to my birthday:
+
+@Article{2017:3072959,
+ journal = {ACM Trans. Graph.},
+ year = {2017},
+ issn = {0730-0301},
+ volume = {36},
+ number = {4},
+ issue_date = {July 2017},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+key = {{$\!\!$}} ,
+} 
+
+
+Computers and Graphics
+
+Most recent:
+
+
+@article{LEE20181,
+title = "Heuristic misfit reduction: A programmable approach for 3D garment fit customization",
+journal = "Computers & Graphics",
+volume = "71",
+pages = "1 - 13",
+year = "2018",
+issn = "0097-8493",
+doi = "https://doi.org/10.1016/j.cag.2017.10.004",
+url = "http://www.sciencedirect.com/science/article/pii/S009784931730170X",
+author = "Wonseop Lee and Hyeong-Seok Ko",
+keywords = "Clothing simulation, Fit customization, Pattern-making, Computer animation"
+}
+
+Closest to my birthday:
+
+@article{KATZ201745,
+title = "On visibility and empty-region graphs",
+journal = "Computers & Graphics",
+volume = "66",
+pages = "45 - 52",
+year = "2017",
+note = "Shape Modeling International 2017",
+issn = "0097-8493",
+doi = "https://doi.org/10.1016/j.cag.2017.05.007",
+url = "http://www.sciencedirect.com/science/article/pii/S0097849317300560",
+author = "Sagi Katz and Ayellet Tal",
+keywords = "Visibility detection, Empty-region graphs, Point clouds"
+}
+
+
+Computer Graphics Forum
+
+Most recent:
+
+
+@article{12659913620171201,
+ISSN = {01677055},
+Journal = {Computer Graphics Forum},
+Keywords = {COMPUTER graphics periodicals, PERIODICAL editors},
+Number = {8},
+Pages = {1 - 5},
+Title = {Issue Information.},
+Volume = {36},
+URL = {https://umasslowell.idm.oclc.org/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=aph&AN=126599136&site=ehost-live},
+Year = {2017},
+}
+
+
+Closest to my birthday:
+
+
+@article{12659913120171201,
+Abstract = {A hallmark of early stage design is a number of quick-and-dirty sketches capturing design inspirations, model variations and alternate viewpoints of a visual concept. We present SketchSoup, a workflow that allows designers to explore the design space induced by such sketches. We take an unstructured collection of drawings as input, along with a small number of user-provided correspondences as input. We register them using a multi-image matching algorithm, and present them as a 2D interpolation space. By morphing sketches in this space, our approach produces plausible visualizations of shape and viewpoint variations despite the presence of sketch distortions that would prevent standard camera calibration and 3D reconstruction. In addition, our interpolated sketches can serve as inspiration for further drawings, which feed back into the design space as additional image inputs. SketchSoup thus fills a significant gap in the early ideation stage of conceptual design by allowing designers },
+Author = {Arora, R. and Darolia, I. and Namboodiri, V. P. and Singh, K. and Bousseau, A.},
+ISSN = {01677055},
+Journal = {Computer Graphics Forum},
+Keywords = {MODELS & modelmaking, SIMULATION methods & models, RENDERING (Computer graphics), COMPUTER graphics, VISUALIZATION, ALGORITHMS, I.3.3 [Computer Graphics]: Picture/Image Generation-Display Algorithms, non-photorealistic rendering, paint systems, shape blending/morphing},
+Number = {8},
+Pages = {302 - 312},
+Title = {SketchSoup: Exploratory Ideation Using Design Sketches.},
+Volume = {36},
+URL = {https://umasslowell.idm.oclc.org/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=aph&AN=126599131&site=ehost-live},
+Year = {2017},
+}
+
+
+Visual Computer
+
+I wasn't sure which Journal was 'Visual Computer' because there were not any named exactly that; so I picked 'Journal of visual languages and computing.'
+
+
+Most recent:
+
+@article{ELSAYED20181,
+title = "Context-aware design pattern for situated analytics: Blended Model View Controller",
+journal = "Journal of Visual Languages & Computing",
+volume = "44",
+pages = "1 - 12",
+year = "2018",
+issn = "1045-926X",
+doi = "https://doi.org/10.1016/j.jvlc.2017.11.001",
+url = "http://www.sciencedirect.com/science/article/pii/S1045926X17300642",
+author = "Neven A.M. ElSayed and Ross T. Smith and Kim Marriott and Bruce H. Thomas",
+keywords = "Augmented reality, Situated analytics, Immersive analytics, Interaction techniques, In-situ interaction, Context-driven interaction, Blended Model View Controller"
+}
+
+Closest to my birthday:
+
+@article{JIANG20171,
+title = "From social community to spatio-temporal information: A new method for mobile data exploration",
+journal = "Journal of Visual Languages & Computing",
+volume = "41",
+pages = "1 - 9",
+year = "2017",
+issn = "1045-926X",
+doi = "https://doi.org/10.1016/j.jvlc.2017.05.002",
+url = "http://www.sciencedirect.com/science/article/pii/S1045926X16301495",
+author = "Hongyu Jiang and Yadong Wu and Ye Zhang and Song Wang and Yangsong Zhang",
+keywords = "Social-spatio-temporal information, Social role identification, Community visualization"
+}
